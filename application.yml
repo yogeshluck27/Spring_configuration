@@ -1,1 +1,6 @@
-db.connection = http
+db.connection = connection-string-here-from-congig-server
+db.host = 127.0.0.1
+db.port = 1200
+
+my.greeting = Hello World from COnfig Server
+my.list.values = one,two,three
